@@ -1,3 +1,9 @@
+# Lead Intent & Contact Ruler (Motor de Otimização de Discagem)
+
+> **Nota:** Este projeto está documentado em inglês para refletir os padrões técnicos de Engenharia de Dados e Pesquisa Operacional. 
+> 
+> **Resumo:** Este repositório contém um motor de decisão para operações de Inside Sales. Ele automatiza a identificação do ponto de saturação de leads (Exhaustion), segmenta a performance da equipe via Machine Learning (Elasticidade) e utiliza Programação Linear para alocar o time nos leads com maior probabilidade de conversão.
+
 # Lead Intent & Contact Ruler
 
 This repository contains a production-grade refactor of a notebook-driven dialing optimization workflow into modular SQL/Python assets for GitHub and CI/CD usage.
