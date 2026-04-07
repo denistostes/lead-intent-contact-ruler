@@ -1,4 +1,4 @@
-# Lead Intent & Contact Ruler
+# Intent do Lead e Régua de Contato
 
 Este repositório contém a refatoração modular de um workflow de otimização de discagem (originalmente desenvolvido em Databricks Notebooks) para scripts SQL e Python de nível produtivo, estruturados para integração em pipelines de dados e ambientes de CI/CD.
 
